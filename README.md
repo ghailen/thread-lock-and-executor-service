@@ -1,6 +1,8 @@
 # thread-lock-and-executor-service
-A lock is a thread synchronization mechanism like synchronized blocks except locks can be more sophisticated than Java's synchronized blocks. Locks (and other more advanced synchronization mechanisms) are created using synchronized blocks, so it is not like we can get totally rid of the synchronized 
+A lock is a thread synchronization mechanism like synchronized blocks except locks can be more sophisticated than Java's synchronized blocks. Locks (and other more advanced synchronization mechanisms) are created using synchronized blocks, so it is not like we can get totally rid of the synchronized.
+
 example : 
+
 ![image](https://user-images.githubusercontent.com/36199753/134033069-c5e1734c-519b-49c3-8b4e-3911d4cb6bd7.png)
 
 
